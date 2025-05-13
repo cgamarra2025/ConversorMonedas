@@ -14,4 +14,4 @@ Ejecutamos el Proyecto y escribimo el numero de acuerdo al menu  mostrado para e
 Se ha utilizamos el IntelliJ IDEA 2025.1 (Community Edition 2025.1), para el desarrollar del proyecto en Lenguaje Java, nos ofrece un entorno de desarrollo inteligente y eficiente para aumentar la productividad y la calidad del código.
 
 # Autor del proyecto.
-Alumno de Alura Latam G8: GAMARRA PISFIL, Casrlos.
+Alumno de Alura Latam G8: GAMARRA PISFIL, Carlos.
